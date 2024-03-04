@@ -1,1 +1,2 @@
 This is file_3.txt
+This is a bug fix
